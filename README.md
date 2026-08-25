@@ -83,18 +83,23 @@ Interactive Power BI dashboard analyzing ride bookings, revenue, vehicle perform
 
 ### 📜 Certifications
 
-<details>
-<summary><b>Click to expand — 20+ Professional Certificates</b></summary>
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Microsoft**
+![Microsoft](https://img.shields.io/badge/Microsoft-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
+
 - Python Development Professional Certificate
 - Power BI Data Analyst Professional Certificate
 - Full-Stack Developer Professional Certificate
 - Business Analyst Professional Certificate
 - Modern Project Management with Microsoft Tools (5-course Specialization)
 
-**IBM**
+</td>
+<td width="50%" valign="top">
+
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
 - Data Analyst Professional Certificate
 - Data Science Professional Certificate
 - Business Intelligence (BI) Analyst Professional Certificate
@@ -102,26 +107,46 @@ Interactive Power BI dashboard analyzing ride bookings, revenue, vehicle perform
 - Product Manager Professional Certificate
 - AI Product Manager Professional Certificate
 
-**Google**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)
+
 - Cloud Data Analytics Professional Certificate
 - Project Management Professional Certificate
 - AI Professional Certificate
 
-**Meta**
+</td>
+<td width="50%" valign="top">
+
+![Meta](https://img.shields.io/badge/Meta-0866FF?style=flat-square&logo=meta&logoColor=white)
+
 - Data Analyst Professional Certificate
 - Database Engineer Professional Certificate
 - Marketing Analytics Professional Certificate
 
-**AWS**
-- Cloud Technology Consultant Professional Certificate
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**SAP**
+![Amazon](https://img.shields.io/badge/Amazon-232F3E?style=flat-square&logo=amazon&logoColor=white)
+
+- Cloud Technology Consultant Professional Certificate
+- Data Structures and Algorithms
+
+</td>
+<td width="50%" valign="top">
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+
 - Business Analyst Professional Certificate
 
-**Other**
-- Data Structures and Algorithms (Individual Course)
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
