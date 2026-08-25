@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **aryanRP7/aryanRP7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -91,7 +91,7 @@ Interactive Power BI dashboard analyzing ride bookings, revenue, vehicle perform
 </tr>
 </table>
 
-> ⚠️ Swap the `#` links above for your actual repo URLs once they're live.
+<!-- > ⚠️ Swap the `#` links above for your actual repo URLs once they're live. -->
 
 ---
 
