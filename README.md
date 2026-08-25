@@ -1,19 +1,3 @@
-
-
-<!--
-**aryanRP7/aryanRP7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Aryan%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
@@ -27,6 +11,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan777/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanpatre77@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=aryanRP7&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+📧 aryanpatre77@gmail.com
 
 </div>
 
@@ -139,25 +125,14 @@ Interactive Power BI dashboard analyzing ride bookings, revenue, vehicle perform
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=aryanRP7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=aryanRP7&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryanRP7&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan777/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanpatre77@gmail.com)
+
+📧 aryanpatre77@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
