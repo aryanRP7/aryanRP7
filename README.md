@@ -91,7 +91,7 @@ Interactive Power BI dashboard analyzing ride bookings, revenue, vehicle perform
 </tr>
 </table>
 
-<!-- > ⚠️ Swap the `#` links above for your actual repo URLs once they're live. -->
+> ⚠️ Swap the `#` links above for your actual repo URLs once they're live.
 
 ---
 
@@ -143,10 +143,10 @@ Interactive Power BI dashboard analyzing ride bookings, revenue, vehicle perform
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryanRP7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanRP7&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=aryanRP7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=aryanRP7&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanRP7&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryanRP7&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
